@@ -43,9 +43,7 @@ npm run dev
 ## 📞 Contact
 
 - **GitHub**: [https://github.com/pbdrip7-ks](https://github.com/pbdrip7-ks)
-- **Portfolio**: [Your Portfolio Link - Add when ready]
-- **LinkedIn**: [Your LinkedIn Profile - Add when ready]
-- **Email**: [Your Professional Email - Add when ready]
+- **Email**: pbdrip7@gmail.com
 
 ---
 
